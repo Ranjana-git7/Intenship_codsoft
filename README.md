@@ -1,5 +1,5 @@
 # Intenship_codsoft
-This is intenship File of three task 
+This is intenship File of three task .
 Author - Ranjana 
 TO-DO LIST
 
