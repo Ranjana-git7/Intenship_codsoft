@@ -1,6 +1,6 @@
 # Intenship_codsoft
 This is intenship File of three task .<br>
-Author - Ranjana <br>
+Author - Ranjana L <br>
 TO-DO LIST
 
 TASK 1
